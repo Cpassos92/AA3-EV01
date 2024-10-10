@@ -1,0 +1,7 @@
+com\myApp\cliente_app\services\ClienteService.class
+com\myApp\cliente_app\services\ClienteServiceImplementacion.class
+com\myApp\cliente_app\ServletInitializer.class
+com\myApp\cliente_app\ClienteAppApplication.class
+com\myApp\cliente_app\model\Cliente.class
+com\myApp\cliente_app\controller\ClienteController.class
+com\myApp\cliente_app\repository\ClienteRepository.class
